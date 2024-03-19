@@ -1,3 +1,2 @@
 Branches:
 - Practices
-- Projects
